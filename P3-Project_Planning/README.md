@@ -26,4 +26,9 @@ https://trello.com/b/Bhe7tMa5/playball
 
 Include a link to your project on GitHub.
 
-https://github.com/msunkist99/play_ball_2021
+https://github.com/msunkist99/2021_play_ball_UI
+https://github.com/msunkist99/2021_play_ball_game_player_batch
+https://github.com/msunkist99/2021_play_ball_player_batch
+https://github.com/msunkist99/2021_play_ball_substitute_player_batch
+https://github.com/msunkist99/2021_play_ball_team_batch
+https://github.com/msunkist99/2021_play_ball_miscellaneous
